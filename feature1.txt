@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
 I was updated
+=======
+final soltion for x
+>>>>>>> 751e533... final  solution on x
