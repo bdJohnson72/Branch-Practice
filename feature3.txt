@@ -1,1 +1,3 @@
 I also updated feature 3
+I made some changes to feature 3
+
